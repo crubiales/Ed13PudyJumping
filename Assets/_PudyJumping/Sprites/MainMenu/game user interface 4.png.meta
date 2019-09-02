@@ -1,0 +1,2064 @@
+fileFormatVersion: 2
+guid: cc50b2511c026f9428f5b7d3bbc2b658
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: game user interface 4_0
+  - first:
+      213: 21300002
+    second: game user interface 4_1
+  - first:
+      213: 21300004
+    second: game user interface 4_2
+  - first:
+      213: 21300006
+    second: game user interface 4_3
+  - first:
+      213: 21300008
+    second: game user interface 4_4
+  - first:
+      213: 21300010
+    second: game user interface 4_5
+  - first:
+      213: 21300012
+    second: game user interface 4_6
+  - first:
+      213: 21300014
+    second: game user interface 4_7
+  - first:
+      213: 21300016
+    second: game user interface 4_8
+  - first:
+      213: 21300018
+    second: game user interface 4_9
+  - first:
+      213: 21300020
+    second: game user interface 4_10
+  - first:
+      213: 21300022
+    second: game user interface 4_11
+  - first:
+      213: 21300024
+    second: game user interface 4_12
+  - first:
+      213: 21300026
+    second: game user interface 4_13
+  - first:
+      213: 21300028
+    second: game user interface 4_14
+  - first:
+      213: 21300030
+    second: game user interface 4_15
+  - first:
+      213: 21300032
+    second: game user interface 4_16
+  - first:
+      213: 21300034
+    second: game user interface 4_17
+  - first:
+      213: 21300036
+    second: game user interface 4_18
+  - first:
+      213: 21300038
+    second: game user interface 4_19
+  - first:
+      213: 21300040
+    second: game user interface 4_20
+  - first:
+      213: 21300042
+    second: game user interface 4_21
+  - first:
+      213: 21300044
+    second: game user interface 4_22
+  - first:
+      213: 21300046
+    second: game user interface 4_23
+  - first:
+      213: 21300048
+    second: game user interface 4_24
+  - first:
+      213: 21300050
+    second: game user interface 4_25
+  - first:
+      213: 21300052
+    second: game user interface 4_26
+  - first:
+      213: 21300054
+    second: game user interface 4_27
+  - first:
+      213: 21300056
+    second: game user interface 4_28
+  - first:
+      213: 21300058
+    second: game user interface 4_29
+  - first:
+      213: 21300060
+    second: game user interface 4_30
+  - first:
+      213: 21300062
+    second: game user interface 4_31
+  - first:
+      213: 21300064
+    second: game user interface 4_32
+  - first:
+      213: 21300066
+    second: game user interface 4_33
+  - first:
+      213: 21300068
+    second: game user interface 4_34
+  - first:
+      213: 21300070
+    second: game user interface 4_35
+  - first:
+      213: 21300072
+    second: game user interface 4_36
+  - first:
+      213: 21300074
+    second: game user interface 4_37
+  - first:
+      213: 21300076
+    second: game user interface 4_38
+  - first:
+      213: 21300078
+    second: game user interface 4_39
+  - first:
+      213: 21300080
+    second: game user interface 4_40
+  - first:
+      213: 21300082
+    second: game user interface 4_41
+  - first:
+      213: 21300084
+    second: game user interface 4_42
+  - first:
+      213: 21300086
+    second: game user interface 4_43
+  - first:
+      213: 21300088
+    second: game user interface 4_45
+  - first:
+      213: 21300090
+    second: game user interface 4_46
+  - first:
+      213: 21300092
+    second: game user interface 4_47
+  - first:
+      213: 21300094
+    second: game user interface 4_48
+  - first:
+      213: 21300096
+    second: game user interface 4_49
+  - first:
+      213: 21300098
+    second: ImgNormalRed
+  - first:
+      213: 21300100
+    second: game user interface 4_51
+  - first:
+      213: 21300102
+    second: game user interface 4_52
+  - first:
+      213: 21300104
+    second: game user interface 4_53
+  - first:
+      213: 21300106
+    second: ImgPressRed
+  - first:
+      213: 21300108
+    second: game user interface 4_55
+  - first:
+      213: 21300110
+    second: game user interface 4_56
+  - first:
+      213: 21300112
+    second: game user interface 4_57
+  - first:
+      213: 21300114
+    second: imgBtnBlueNormal
+  - first:
+      213: 21300116
+    second: game user interface 4_59
+  - first:
+      213: 21300118
+    second: game user interface 4_60
+  - first:
+      213: 21300120
+    second: game user interface 4_61
+  - first:
+      213: 21300122
+    second: imgBtnBluePressed
+  - first:
+      213: 21300124
+    second: game user interface 4_63
+  - first:
+      213: 21300126
+    second: game user interface 4_64
+  - first:
+      213: 21300128
+    second: game user interface 4_65
+  - first:
+      213: 21300130
+    second: imgHealthForeground
+  - first:
+      213: 21300132
+    second: game user interface 4_67
+  - first:
+      213: 21300134
+    second: game user interface 4_68
+  - first:
+      213: 21300136
+    second: game user interface 4_69
+  - first:
+      213: 21300138
+    second: ImgLoadRear
+  - first:
+      213: 21300140
+    second: game user interface 4_71
+  - first:
+      213: 21300142
+    second: game user interface 4_72
+  - first:
+      213: 21300144
+    second: game user interface 4_73
+  - first:
+      213: 21300146
+    second: imgBtnGrayNormal
+  - first:
+      213: 21300148
+    second: game user interface 4_75
+  - first:
+      213: 21300150
+    second: game user interface 4_76
+  - first:
+      213: 21300152
+    second: game user interface 4_77
+  - first:
+      213: 21300154
+    second: imgHealthBackground
+  - first:
+      213: 21300156
+    second: game user interface 4_79
+  - first:
+      213: 21300158
+    second: game user interface 4_44
+  - first:
+      213: 21300160
+    second: imgBlueNormal
+  - first:
+      213: 21300162
+    second: imgBluePressed
+  - first:
+      213: 21300164
+    second: ImgLoadFront
+  - first:
+      213: 21300166
+    second: ImgNormalDisable
+  - first:
+      213: 21300168
+    second: ImgPressDisable
+  - first:
+      213: 21300170
+    second: ImgNormalBlue
+  - first:
+      213: 21300172
+    second: ImgPressBlue
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.001
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: game user interface 4_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 3342
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae927b7c584d04448d07f460200c44f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_1
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3342
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4254caf49be43c14fbdc38b7dbb8be59
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_2
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 3342
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8427e8ef01ad33949acf8feec54fad48
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_3
+      rect:
+        serializedVersion: 2
+        x: 1846
+        y: 3448
+        width: 55
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb43a08ea45fc045a0183f0e33376e1
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_4
+      rect:
+        serializedVersion: 2
+        x: 1917
+        y: 3448
+        width: 100
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0817cdc7faf336045b62be61567b296c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_5
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 3448
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04a37d231475bc438d4e5d5f00a82bd
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_6
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3448
+        width: 98
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f546699e71a40ad46be047ae8c007bb8
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_7
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 3448
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f083091a6a38dde48b5c0f8acbbe69f3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_8
+      rect:
+        serializedVersion: 2
+        x: 2374
+        y: 3448
+        width: 94
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09457d24d0c1e5944ba394c2b5a4643b
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_9
+      rect:
+        serializedVersion: 2
+        x: 2485
+        y: 3448
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e7e98549f4097c4f8c1d334b985ec85
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_10
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3449
+        width: 89
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f35c131a562fff448687806b9353647
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_11
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 3448
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e093ebea61f4eb445a6fffcef9321a2c
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_12
+      rect:
+        serializedVersion: 2
+        x: 2817
+        y: 3448
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120131f8061e1fc49943b7c753865086
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_13
+      rect:
+        serializedVersion: 2
+        x: 1840
+        y: 3299
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fbb76025a118c42b62145dd82899d8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_14
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 3300
+        width: 98
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531a8140ed0916d4b9649878dbe2e1f8
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_15
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 3300
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba253ad261e13f047a584291937c56a7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_16
+      rect:
+        serializedVersion: 2
+        x: 2167
+        y: 3300
+        width: 97
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 460d0df2147d8af4d8103af2c6703223
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_17
+      rect:
+        serializedVersion: 2
+        x: 2281
+        y: 3299
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d57c072cef49894c925640a7ca8ee11
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_18
+      rect:
+        serializedVersion: 2
+        x: 2396
+        y: 3299
+        width: 91
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eca43696d3dc3941beec99107ba8332
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_19
+      rect:
+        serializedVersion: 2
+        x: 2502
+        y: 3298
+        width: 97
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d27c5448911704faeb10bb6668d9da
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_20
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 3299
+        width: 97
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a72e8e77ee98c9042b60cb686518e853
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_21
+      rect:
+        serializedVersion: 2
+        x: 2734
+        y: 3299
+        width: 23
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84c3ac854084f2488ad904e3d40e762
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_22
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 3298
+        width: 72
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1a502be23825d44937470f1649d037
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_23
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2995
+        width: 307
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b858bad6e2be74b905927c8baf47db
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_24
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2995
+        width: 307
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa5d5b523058949a97949922ee0283
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_25
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2995
+        width: 974
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ca8f6a16a8bce498d160d9f3027ff7
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_26
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 3157
+        width: 91
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f152ef2a6acca4a48b70125a3096f3a5
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_27
+      rect:
+        serializedVersion: 2
+        x: 1935
+        y: 3158
+        width: 91
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c782cabb070a8447a818677ce6c4a33
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_28
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 3158
+        width: 134
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a0a875a19bdb4db09ca819f892fe5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_29
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 3157
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeff9908044a8f4cbb0ca971f983577
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_30
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 3157
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df39db534b5ac4242bb8a39034ee35a1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_31
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 3157
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c472a6f895b4043ae2487423df713f
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_32
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 3157
+        width: 115
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5950dc0a2ae0f7498888d02257bc9ae
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_33
+      rect:
+        serializedVersion: 2
+        x: 2672
+        y: 3157
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d66eaeadf67e7040b25956b582b509c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_34
+      rect:
+        serializedVersion: 2
+        x: 2785
+        y: 3153
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529b2825f183c5e45a70974a19ed124b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_35
+      rect:
+        serializedVersion: 2
+        x: 1829
+        y: 3013
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ec4f67494d18434aab49ed85191f0cd
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_36
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 3013
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188f8b981926dc048872c6640f32abfa
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_37
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3013
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38da20613ad492469b41a1e5397ebfe
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_38
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 3013
+        width: 179
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754dbb6b252c801479be1cc1acd3fcdb
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_39
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 3013
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60e69c9eaadd54ca7ec6c70870039d
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_40
+      rect:
+        serializedVersion: 2
+        x: 2471
+        y: 3013
+        width: 101
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1525a1ba4746044f878abdaaa389c92
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_41
+      rect:
+        serializedVersion: 2
+        x: 2577
+        y: 3013
+        width: 93
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4851e70a0ac38aa48aacfeb2d1f2fbdd
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_42
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 3037
+        width: 100
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc04e12b755c44b4f9b17456576ddb73
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_43
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 3037
+        width: 23
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4479e395ace0c5a4996804bdfac3705e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_44
+      rect:
+        serializedVersion: 2
+        x: 2713
+        y: 3012
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fd2f6e662151340865ce027b5d9238
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_45
+      rect:
+        serializedVersion: 2
+        x: 2806
+        y: 3012
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28cb1e969b8001347a25a3b416d0fa0c
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_46
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2996
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a117db43abb429645903d766962413ab
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_47
+      rect:
+        serializedVersion: 2
+        x: 2924
+        y: 3012
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85f548eddb906b74ea46ec65e3920247
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_48
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2626
+        width: 307
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5da0a6762f9c64429f9d1c4d4b71cd2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_49
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2626
+        width: 307
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704e45fa49dc95e49981739a37dfa5ce
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgNormalRed
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2626
+        width: 974
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 75, y: 87, z: 51, w: 53}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047b9ad9927ee8a439afc9fc34dcba82
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_51
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2626
+        width: 974
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ac3a231c2a3bb42940ec83a77447d4
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_52
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 2278
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31887866bc70a64b87e1cd0f5dec6c8
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_53
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2278
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd739c224228bb4bb6ca795f05af778
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgPressRed
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 2278
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075d97f1e3b0a9640be0916d0c8f61f7
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_55
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2272
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f58d5c6111ea84eace1aa21db1ac95
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1919
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c4613a25a6e5540bc10fbd48a38c20
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_57
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1918
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8c194f87a484a4583b682c52f7676e
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgNormalBlue
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1918
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 78, y: 84, z: 76, w: 64}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d55c7f13052ad4986d806469f3a9a4
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_59
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1918
+        width: 975
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a29452cea234ca46b9e550388a2b6f4
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_60
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1571
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481b9f71cf9246347b9f554574ea8c37
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_61
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1570
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6cd9ac73d5ed4468db85b7f9aa61e7
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgPressBlue
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1570
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5584c2c816992b141be7fe4ad3469692
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_63
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1565
+        width: 974
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45185c9eda0f0a84ead2cb2a0455c6d1
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_64
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1217
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb497332c3a82479a971af8519ce85
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_65
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1217
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9d844fa2509f42a887c8e61a7ea08
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgLoadFront
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1217
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f5e3c9760ec824587551ba11b76bd3
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_67
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1217
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6c53e30e7441d41b2272b58828e8ba
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 869
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d9b98e523f2fb4aa8a4fba8f18be55
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_69
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 869
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67fc179e8cbc39247928e081d75a2b94
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgLoadRear
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 869
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edc90d9adc4514439a766fb4042a950
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_71
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 863
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad60da19ab35a0c43a38d5e2ad70205c
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 499
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c441a6eb77e6554e85720e32b80e3ff
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_73
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 499
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f439e8e93553df14785456d3a07a5135
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgNormalDisable
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 499
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b6b77d8482a1f4aae4aba5fc39d920
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_75
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 499
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13970debfff5c7439fd57dcf7f04a92
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_76
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 151
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9f95d33ab53484d8096af736bc2334
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_77
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 151
+        width: 307
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bda0d8b790f4e458d3aeb65b2895ca
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ImgPressDisable
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 151
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d725d920e6f8714a9c2f4a161e24ce8
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: game user interface 4_79
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 145
+        width: 974
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b08a10b20edb4408ed49eb90534a86
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6091ddb087456c848b459eb1b688f4a8
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

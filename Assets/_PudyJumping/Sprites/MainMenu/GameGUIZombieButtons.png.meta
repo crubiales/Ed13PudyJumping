@@ -1,0 +1,4827 @@
+fileFormatVersion: 2
+guid: d93f7862550c7b14eb5978de82ad41b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: GameGUIZombieButtons_0
+  - first:
+      213: 21300002
+    second: GameGUIZombieButtons_1
+  - first:
+      213: 21300004
+    second: GameGUIZombieButtons_2
+  - first:
+      213: 21300006
+    second: GameGUIZombieButtons_3
+  - first:
+      213: 21300008
+    second: GameGUIZombieButtons_4
+  - first:
+      213: 21300010
+    second: GameGUIZombieButtons_5
+  - first:
+      213: 21300012
+    second: GameGUIZombieButtons_6
+  - first:
+      213: 21300014
+    second: GameGUIZombieButtons_7
+  - first:
+      213: 21300016
+    second: GameGUIZombieButtons_8
+  - first:
+      213: 21300018
+    second: GameGUIZombieButtons_9
+  - first:
+      213: 21300020
+    second: GameGUIZombieButtons_10
+  - first:
+      213: 21300022
+    second: GameGUIZombieButtons_11
+  - first:
+      213: 21300024
+    second: GameGUIZombieButtons_12
+  - first:
+      213: 21300026
+    second: GameGUIZombieButtons_13
+  - first:
+      213: 21300028
+    second: GameGUIZombieButtons_14
+  - first:
+      213: 21300030
+    second: GameGUIZombieButtons_15
+  - first:
+      213: 21300032
+    second: GameGUIZombieButtons_16
+  - first:
+      213: 21300034
+    second: GameGUIZombieButtons_17
+  - first:
+      213: 21300036
+    second: GameGUIZombieButtons_18
+  - first:
+      213: 21300038
+    second: GameGUIZombieButtons_19
+  - first:
+      213: 21300040
+    second: GameGUIZombieButtons_20
+  - first:
+      213: 21300042
+    second: GameGUIZombieButtons_21
+  - first:
+      213: 21300044
+    second: GameGUIZombieButtons_22
+  - first:
+      213: 21300046
+    second: GameGUIZombieButtons_23
+  - first:
+      213: 21300048
+    second: GameGUIZombieButtons_24
+  - first:
+      213: 21300050
+    second: GameGUIZombieButtons_25
+  - first:
+      213: 21300052
+    second: GameGUIZombieButtons_26
+  - first:
+      213: 21300054
+    second: GameGUIZombieButtons_27
+  - first:
+      213: 21300056
+    second: GameGUIZombieButtons_28
+  - first:
+      213: 21300058
+    second: GameGUIZombieButtons_29
+  - first:
+      213: 21300060
+    second: GameGUIZombieButtons_30
+  - first:
+      213: 21300062
+    second: GameGUIZombieButtons_31
+  - first:
+      213: 21300064
+    second: GameGUIZombieButtons_32
+  - first:
+      213: 21300066
+    second: GameGUIZombieButtons_33
+  - first:
+      213: 21300068
+    second: GameGUIZombieButtons_34
+  - first:
+      213: 21300070
+    second: GameGUIZombieButtons_35
+  - first:
+      213: 21300072
+    second: GameGUIZombieButtons_36
+  - first:
+      213: 21300074
+    second: GameGUIZombieButtons_37
+  - first:
+      213: 21300076
+    second: GameGUIZombieButtons_38
+  - first:
+      213: 21300078
+    second: GameGUIZombieButtons_39
+  - first:
+      213: 21300080
+    second: GameGUIZombieButtons_40
+  - first:
+      213: 21300082
+    second: GameGUIZombieButtons_41
+  - first:
+      213: 21300084
+    second: GameGUIZombieButtons_42
+  - first:
+      213: 21300086
+    second: GameGUIZombieButtons_43
+  - first:
+      213: 21300088
+    second: GameGUIZombieButtons_44
+  - first:
+      213: 21300090
+    second: GameGUIZombieButtons_45
+  - first:
+      213: 21300092
+    second: GameGUIZombieButtons_46
+  - first:
+      213: 21300094
+    second: GameGUIZombieButtons_47
+  - first:
+      213: 21300096
+    second: GameGUIZombieButtons_48
+  - first:
+      213: 21300098
+    second: GameGUIZombieButtons_49
+  - first:
+      213: 21300100
+    second: GameGUIZombieButtons_50
+  - first:
+      213: 21300102
+    second: GameGUIZombieButtons_51
+  - first:
+      213: 21300104
+    second: GameGUIZombieButtons_52
+  - first:
+      213: 21300106
+    second: GameGUIZombieButtons_53
+  - first:
+      213: 21300108
+    second: GameGUIZombieButtons_54
+  - first:
+      213: 21300110
+    second: GameGUIZombieButtons_55
+  - first:
+      213: 21300112
+    second: GameGUIZombieButtons_56
+  - first:
+      213: 21300114
+    second: GameGUIZombieButtons_57
+  - first:
+      213: 21300116
+    second: GameGUIZombieButtons_58
+  - first:
+      213: 21300118
+    second: GameGUIZombieButtons_59
+  - first:
+      213: 21300120
+    second: GameGUIZombieButtons_60
+  - first:
+      213: 21300122
+    second: GameGUIZombieButtons_61
+  - first:
+      213: 21300124
+    second: GameGUIZombieButtons_62
+  - first:
+      213: 21300126
+    second: GameGUIZombieButtons_63
+  - first:
+      213: 21300128
+    second: GameGUIZombieButtons_64
+  - first:
+      213: 21300130
+    second: GameGUIZombieButtons_65
+  - first:
+      213: 21300132
+    second: GameGUIZombieButtons_66
+  - first:
+      213: 21300134
+    second: GameGUIZombieButtons_67
+  - first:
+      213: 21300136
+    second: GameGUIZombieButtons_68
+  - first:
+      213: 21300138
+    second: GameGUIZombieButtons_69
+  - first:
+      213: 21300140
+    second: GameGUIZombieButtons_70
+  - first:
+      213: 21300142
+    second: GameGUIZombieButtons_71
+  - first:
+      213: 21300144
+    second: GameGUIZombieButtons_72
+  - first:
+      213: 21300146
+    second: GameGUIZombieButtons_73
+  - first:
+      213: 21300148
+    second: GameGUIZombieButtons_74
+  - first:
+      213: 21300150
+    second: GameGUIZombieButtons_75
+  - first:
+      213: 21300152
+    second: GameGUIZombieButtons_76
+  - first:
+      213: 21300154
+    second: GameGUIZombieButtons_77
+  - first:
+      213: 21300156
+    second: GameGUIZombieButtons_78
+  - first:
+      213: 21300158
+    second: GameGUIZombieButtons_79
+  - first:
+      213: 21300160
+    second: GameGUIZombieButtons_80
+  - first:
+      213: 21300162
+    second: GameGUIZombieButtons_81
+  - first:
+      213: 21300164
+    second: GameGUIZombieButtons_82
+  - first:
+      213: 21300166
+    second: GameGUIZombieButtons_83
+  - first:
+      213: 21300168
+    second: GameGUIZombieButtons_84
+  - first:
+      213: 21300170
+    second: GameGUIZombieButtons_85
+  - first:
+      213: 21300172
+    second: GameGUIZombieButtons_86
+  - first:
+      213: 21300174
+    second: GameGUIZombieButtons_87
+  - first:
+      213: 21300176
+    second: GameGUIZombieButtons_88
+  - first:
+      213: 21300178
+    second: GameGUIZombieButtons_89
+  - first:
+      213: 21300180
+    second: GameGUIZombieButtons_90
+  - first:
+      213: 21300182
+    second: GameGUIZombieButtons_91
+  - first:
+      213: 21300184
+    second: GameGUIZombieButtons_92
+  - first:
+      213: 21300186
+    second: GameGUIZombieButtons_93
+  - first:
+      213: 21300188
+    second: GameGUIZombieButtons_94
+  - first:
+      213: 21300190
+    second: GameGUIZombieButtons_95
+  - first:
+      213: 21300192
+    second: GameGUIZombieButtons_96
+  - first:
+      213: 21300194
+    second: GameGUIZombieButtons_97
+  - first:
+      213: 21300196
+    second: GameGUIZombieButtons_98
+  - first:
+      213: 21300198
+    second: GameGUIZombieButtons_99
+  - first:
+      213: 21300200
+    second: GameGUIZombieButtons_100
+  - first:
+      213: 21300202
+    second: GameGUIZombieButtons_101
+  - first:
+      213: 21300204
+    second: GameGUIZombieButtons_102
+  - first:
+      213: 21300206
+    second: GameGUIZombieButtons_103
+  - first:
+      213: 21300208
+    second: GameGUIZombieButtons_104
+  - first:
+      213: 21300210
+    second: GameGUIZombieButtons_105
+  - first:
+      213: 21300212
+    second: GameGUIZombieButtons_106
+  - first:
+      213: 21300214
+    second: GameGUIZombieButtons_107
+  - first:
+      213: 21300216
+    second: GameGUIZombieButtons_108
+  - first:
+      213: 21300218
+    second: GameGUIZombieButtons_109
+  - first:
+      213: 21300220
+    second: GameGUIZombieButtons_110
+  - first:
+      213: 21300222
+    second: GameGUIZombieButtons_111
+  - first:
+      213: 21300224
+    second: GameGUIZombieButtons_112
+  - first:
+      213: 21300226
+    second: GameGUIZombieButtons_113
+  - first:
+      213: 21300228
+    second: GameGUIZombieButtons_114
+  - first:
+      213: 21300230
+    second: GameGUIZombieButtons_115
+  - first:
+      213: 21300232
+    second: GameGUIZombieButtons_116
+  - first:
+      213: 21300234
+    second: GameGUIZombieButtons_117
+  - first:
+      213: 21300236
+    second: GameGUIZombieButtons_118
+  - first:
+      213: 21300238
+    second: GameGUIZombieButtons_119
+  - first:
+      213: 21300240
+    second: GameGUIZombieButtons_120
+  - first:
+      213: 21300242
+    second: GameGUIZombieButtons_121
+  - first:
+      213: 21300244
+    second: GameGUIZombieButtons_122
+  - first:
+      213: 21300246
+    second: GameGUIZombieButtons_123
+  - first:
+      213: 21300248
+    second: GameGUIZombieButtons_124
+  - first:
+      213: 21300250
+    second: GameGUIZombieButtons_125
+  - first:
+      213: 21300252
+    second: GameGUIZombieButtons_126
+  - first:
+      213: 21300254
+    second: GameGUIZombieButtons_127
+  - first:
+      213: 21300256
+    second: GameGUIZombieButtons_128
+  - first:
+      213: 21300258
+    second: GameGUIZombieButtons_129
+  - first:
+      213: 21300260
+    second: GameGUIZombieButtons_130
+  - first:
+      213: 21300262
+    second: GameGUIZombieButtons_131
+  - first:
+      213: 21300264
+    second: GameGUIZombieButtons_132
+  - first:
+      213: 21300266
+    second: GameGUIZombieButtons_133
+  - first:
+      213: 21300268
+    second: GameGUIZombieButtons_134
+  - first:
+      213: 21300270
+    second: GameGUIZombieButtons_135
+  - first:
+      213: 21300272
+    second: GameGUIZombieButtons_136
+  - first:
+      213: 21300274
+    second: GameGUIZombieButtons_137
+  - first:
+      213: 21300276
+    second: GameGUIZombieButtons_138
+  - first:
+      213: 21300278
+    second: GameGUIZombieButtons_139
+  - first:
+      213: 21300280
+    second: GameGUIZombieButtons_140
+  - first:
+      213: 21300282
+    second: GameGUIZombieButtons_141
+  - first:
+      213: 21300284
+    second: GameGUIZombieButtons_142
+  - first:
+      213: 21300286
+    second: GameGUIZombieButtons_143
+  - first:
+      213: 21300288
+    second: GameGUIZombieButtons_144
+  - first:
+      213: 21300290
+    second: GameGUIZombieButtons_145
+  - first:
+      213: 21300292
+    second: GameGUIZombieButtons_146
+  - first:
+      213: 21300294
+    second: GameGUIZombieButtons_147
+  - first:
+      213: 21300296
+    second: GameGUIZombieButtons_148
+  - first:
+      213: 21300298
+    second: GameGUIZombieButtons_149
+  - first:
+      213: 21300300
+    second: GameGUIZombieButtons_150
+  - first:
+      213: 21300302
+    second: GameGUIZombieButtons_151
+  - first:
+      213: 21300304
+    second: GameGUIZombieButtons_152
+  - first:
+      213: 21300306
+    second: GameGUIZombieButtons_153
+  - first:
+      213: 21300308
+    second: GameGUIZombieButtons_154
+  - first:
+      213: 21300310
+    second: GameGUIZombieButtons_155
+  - first:
+      213: 21300312
+    second: GameGUIZombieButtons_156
+  - first:
+      213: 21300314
+    second: GameGUIZombieButtons_157
+  - first:
+      213: 21300316
+    second: GameGUIZombieButtons_158
+  - first:
+      213: 21300318
+    second: GameGUIZombieButtons_159
+  - first:
+      213: 21300320
+    second: GameGUIZombieButtons_160
+  - first:
+      213: 21300322
+    second: GameGUIZombieButtons_161
+  - first:
+      213: 21300324
+    second: GameGUIZombieButtons_162
+  - first:
+      213: 21300326
+    second: GameGUIZombieButtons_163
+  - first:
+      213: 21300328
+    second: GameGUIZombieButtons_164
+  - first:
+      213: 21300330
+    second: GameGUIZombieButtons_165
+  - first:
+      213: 21300332
+    second: GameGUIZombieButtons_166
+  - first:
+      213: 21300334
+    second: GameGUIZombieButtons_167
+  - first:
+      213: 21300336
+    second: SliderBack
+  - first:
+      213: 21300338
+    second: SliderFront
+  - first:
+      213: 21300340
+    second: GameGUIZombieButtons_170
+  - first:
+      213: 21300342
+    second: GameGUIZombieButtons_171
+  - first:
+      213: 21300344
+    second: GameGUIZombieButtons_172
+  - first:
+      213: 21300346
+    second: GameGUIZombieButtons_173
+  - first:
+      213: 21300348
+    second: GameGUIZombieButtons_174
+  - first:
+      213: 21300350
+    second: GameGUIZombieButtons_175
+  - first:
+      213: 21300352
+    second: GameGUIZombieButtons_176
+  - first:
+      213: 21300354
+    second: GameGUIZombieButtons_177
+  - first:
+      213: 21300356
+    second: GameGUIZombieButtons_178
+  - first:
+      213: 21300358
+    second: SliderButton
+  - first:
+      213: 21300360
+    second: GameGUIZombieButtons_180
+  - first:
+      213: 21300362
+    second: GameGUIZombieButtons_181
+  - first:
+      213: 21300364
+    second: GameGUIZombieButtons_182
+  - first:
+      213: 21300366
+    second: GameGUIZombieButtons_183
+  - first:
+      213: 21300368
+    second: GameGUIZombieButtons_184
+  - first:
+      213: 21300370
+    second: GameGUIZombieButtons_185
+  - first:
+      213: 21300372
+    second: GameGUIZombieButtons_186
+  - first:
+      213: 21300374
+    second: GameGUIZombieButtons_187
+  - first:
+      213: 21300376
+    second: GameGUIZombieButtons_188
+  - first:
+      213: 21300378
+    second: GameGUIZombieButtons_189
+  - first:
+      213: 21300380
+    second: GameGUIZombieButtons_190
+  - first:
+      213: 21300382
+    second: GameGUIZombieButtons_191
+  - first:
+      213: 21300384
+    second: GameGUIZombieButtons_192
+  - first:
+      213: 21300386
+    second: GameGUIZombieButtons_193
+  - first:
+      213: 21300388
+    second: GameGUIZombieButtons_194
+  - first:
+      213: 21300390
+    second: GameGUIZombieButtons_195
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 0.001
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4081
+        width: 552
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eada7bdee76654f49aeb406f9d5bf95a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_1
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 4081
+        width: 555
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56a8a590e628d34d9be9bef5c97c16a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_2
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 4081
+        width: 555
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eace6f7bc6bdd5419d115e71099f659
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_3
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 4081
+        width: 555
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11aa745853b7b240903c1446e2c7149
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_4
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 4100
+        width: 555
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2408f79cdc29b9e4d8824d602786fb46
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_5
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 4100
+        width: 556
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd368cd32eb4e5449a81eb7d8bd7560
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_6
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 4100
+        width: 553
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a3fba699c0e78469d0c1605902a081
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_7
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 4100
+        width: 552
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675543d3f408a4a418cfa280a6df317e
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3847
+        width: 552
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a249a2b5dd41c4b45939985f05d7a1f5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3847
+        width: 555
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa08c8b521b0e49893ab2357ad0e37
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_10
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 3847
+        width: 555
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97015c150ab987949b006eb577d157d3
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_11
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 3847
+        width: 555
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e584323decddd9f4d82e60cd738f3add
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_12
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 3867
+        width: 555
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb725a409e347a4992a5a99cbd88c1b
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_13
+      rect:
+        serializedVersion: 2
+        x: 3308
+        y: 3867
+        width: 556
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ba767b9183385b46b59c86033f4bd7b
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_14
+      rect:
+        serializedVersion: 2
+        x: 3898
+        y: 3867
+        width: 553
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6086801f900d34a4983bd82f2bdc135e
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_15
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 3867
+        width: 552
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ba86a51f3701a4b921cdc0acd7ba7e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_16
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3662
+        width: 260
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18870a1ad891fa4d83909baf15aac53
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_17
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 3662
+        width: 260
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ee74da63458b34f982643a2c1c3e11
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_18
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 3662
+        width: 263
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3c7b4f468b52642a9db20956e6e1a3
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_19
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 3662
+        width: 260
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e9a0fd20fd03046b303c56e540a371
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_20
+      rect:
+        serializedVersion: 2
+        x: 2896
+        y: 3670
+        width: 260
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5962958fc2aed3946a7adf1d83748bb0
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_21
+      rect:
+        serializedVersion: 2
+        x: 3468
+        y: 3670
+        width: 263
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53802d6ad5ecc5f4aa73660a289fcbb3
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_22
+      rect:
+        serializedVersion: 2
+        x: 4056
+        y: 3670
+        width: 262
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b94ef486ace193459d9f962ffc3347d
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_23
+      rect:
+        serializedVersion: 2
+        x: 4640
+        y: 3670
+        width: 263
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191582003913bf94d919560d0ae848c0
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_24
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3373
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b6797ff783ea3459d4501d196cf385
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_25
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3373
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8536cbf2d34baf4dafed273a2e4a51c
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3373
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e46861a1c478849ba6599d4f07c9ea
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_27
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3373
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6ec6b073d84b4418538cdb4f0f2dbb
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_28
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3373
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c94e62acbfcb3d4f865b5672620b8b5
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_29
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 3373
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff9007de43c8c554fab7f310fd5c75c6
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_30
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3373
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8b82e6661679f4a890e0f4f113a30b
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_31
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 3373
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46511cbe08967014aad4c8c1a335df7d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_32
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 3398
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a4e777a0d85e245a57e13456866d77
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_33
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 3398
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204f6ae2d57c79a4b9b8cab143d4b8cb
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_34
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 3398
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e478edd28ab9ad84dadc9e96c253af1b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_35
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 3398
+        width: 198
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72ca2f023a927843a638ce038256b2a
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_36
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 3398
+        width: 196
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2e5f82938cac14aba7244371000dad
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_37
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 3398
+        width: 197
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70aad2b5cbdf3734db52fd2335b4581b
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_38
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 3398
+        width: 197
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877db4ece18906245a6b489da8486ed9
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_39
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 3398
+        width: 196
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea57966f3ea9b44ea5177c0e956b669
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 3078
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97f943969f1488459c68826728f2a6d
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3078
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f559834810795149829450e87b0f757
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_42
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3078
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3141f41b389906e468d717d664c53c79
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_43
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 3078
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1108cc118d1c24649814bb97ddc0aaa1
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_44
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3081
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b32eabef17a94b4fb648d2c0a22caa4
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_45
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 3081
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b285013f1fa010243966ec695828ee49
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_46
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 3081
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d1e30082abd524b85e1398df54f779
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_47
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 3081
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7c4e5ffd9797249afca7cc3fa8c704
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_48
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 3103
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b4196a485176f488f8698cfffd17f3
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_49
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 3103
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496fc1abf2d201d42b302ffb419ecbaf
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_50
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 3103
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf3c525d7f2d164a8f9979488618640
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_51
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 3103
+        width: 198
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db03f260782f68458a1194baba2b168
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_52
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 3103
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93194bafb37383740a7e190026bfb49f
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_53
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 3103
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d538de66e5f9e4dbc19377b9f8b918
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_54
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 3103
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e64300463d7d07a4bb2574b59d382e29
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_55
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 3103
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a8828d31ac0e846b09e948021c5e19
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_56
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2784
+        width: 207
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d724b244ea0d0f4696d506452a98def
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_57
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2784
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3724f42bf298ea2418ba05b876ba4f75
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_58
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2784
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bc0069abe2493468d3080e6d0c852b
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_59
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2784
+        width: 208
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2f5a46c8721b44c93d287e703850e9
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_60
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2786
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4c6401831583b4195cf3f6c0a9efb8
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_61
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2786
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c3c4fed8988ed468ebb906f3aa0025
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_62
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2786
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8fbaae93f1737d4b8ccaa3550689ef0
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_63
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2786
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9754e3d03daee4497a34a2d6118b9b
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_64
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 2808
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212d51fc430b4354a81c80f772a9c221
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_65
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 2808
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef7ef71a503f8549839b1941f20f21f
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_66
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 2808
+        width: 199
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a834564ad754c741b6480d93e4a107a
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_67
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 2808
+        width: 198
+        height: 191
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a84e28352a27e24c8fd7f5af78ea4ec
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_68
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 2808
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4920368defca1045ae9dc639ff57552
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_69
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2808
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c54cc2e2c352e4cabc3c387c5c60e0
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_70
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 2808
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf7640ca83af5f47b07f0216362e98e
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_71
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 2808
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e3f0151a80f1e4aa5b3823975a1e7d
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_72
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2491
+        width: 207
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9943614ec0e7b04dbabf215cb81a09d
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2491
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282b5e56dfbf0dd46bab7e93ba21f07f
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_74
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2491
+        width: 206
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98447b718d0098747a8503406db9d252
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_75
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2491
+        width: 208
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43240d9e57e6184399570d04ea678f7
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_76
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2491
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbdae96caf00354daaf03c090cc8d65
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_77
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2491
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae59084b649f464083d518329c15c8d
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_78
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2491
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4606be4c750204ba5175b37af1bf57
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_79
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2491
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67530133dc407dd4e97409113aa6b669
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_80
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 2513
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b1b4519313a7444190ef9fae4fc3ba0
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_81
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 2513
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f29244d57bc7cf489356bde3a0e1501
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_82
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 2513
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab841856e22110f4fa1fbfdfd2852bbc
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_83
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 2513
+        width: 198
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d4c3a6f116ca64c87f84f4e15d87a0
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_84
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 2515
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb0e1f835152684e87537b0f6db816f
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_85
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2515
+        width: 197
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c03b09e85d76564e89a9d2e6aad8183
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_86
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 2515
+        width: 197
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c207960bf23168488e8977bf2bd5252
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_87
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 2515
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff03dfa04f717c542a352c9134f647c7
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_88
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2196
+        width: 207
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef301237779ba546ada3af7de9ea8b1
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_89
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2196
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35213bd4b88565948bc2366e049a1a37
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_90
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2196
+        width: 206
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b5468989cd85284689a669ec82a4f25
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_91
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2196
+        width: 208
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4849cfc1d78bc646bd19951cd7a2458
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_92
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 2198
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c53990caff8cad438c1fcaec5f3c96c
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_93
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 2198
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f8ab15962a32642b63e16d1113a382
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_94
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 2198
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f03f8e010f07842be1ba48aa1b59e1
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_95
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 2198
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4999617f58c8441918139a21ae1453
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_96
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 2218
+        width: 199
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4167469c4185649b3bc7328c7ccc11
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_97
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 2218
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e52f0578fdc944dbde0b8874d4a4a6
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_98
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 2218
+        width: 199
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0061562d16cc5640bd0fe2e0f33ea80
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_99
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 2218
+        width: 198
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf855d63d67ceb47a4654fd5fae836e
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_100
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 2220
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9988f19d8c506b64eaf192746be43849
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_101
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 2220
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc091a4e35f927499eb3ed9db87f3f5
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_102
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 2220
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15e0487e5efaea4c82b8520f7009f18
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_103
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 2220
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61458a6b69cab824aa6eb41a21c72cdd
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_104
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1901
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b6f519f42a02f4ebf30ac5d7eaee58
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_105
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1901
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc003de8e6ee63d4fb772612321ef42c
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_106
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1901
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0189c56a2422fea47a53f4b36aca03c8
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_107
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1901
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2d8f21af272d34f8734817cb7af5bd
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_108
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1903
+        width: 209
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67b27423cfb22cf40b7f073ab370fbc6
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_109
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1903
+        width: 209
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 599e966a0ddd73a43a9b4a196e9bf76f
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_110
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1903
+        width: 208
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f9ec84c1a01c840899930607020ae5
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_111
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1903
+        width: 208
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3f3530c0e5bc34bb90e072354db989
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_112
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1923
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d44f62ca1c7642b970782b199bb0f
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_113
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1923
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c5ba07d02e0c94eb6121c78207845b
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_114
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 1923
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e621bbb6012d5f46acfa832f462974c
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_115
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1923
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a0dbb4d7556584b8bf725dc74a11f4
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_116
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1928
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062dda3914e28eb4bbb652ecfe4e4ab1
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_117
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 1928
+        width: 197
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77440fb91777c6c41ac89efbfffdc317
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_118
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 1928
+        width: 197
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711c38d905a25542a54cd585849118a
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_119
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 1928
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc319c738898ca46a79258125595311
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_120
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1606
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5e123d9b9687f45b06f38d96e26e7b
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_121
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1606
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cf6bb431db21a42a6f027cd63495aa
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_122
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1606
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 831ac0a2f0c1d5143b80cc5c5c3cd2b6
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_123
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1606
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5817b2a3fbb5ed44b9570fc8618ddf65
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_124
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1611
+        width: 209
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2555bf1f28bc2499b88120baf01cbb
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_125
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1611
+        width: 209
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdf525ec50b7a14a9532419577bb0bd
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_126
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1611
+        width: 208
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28068d3f962f01b47b0b6b067663dedd
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_127
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1611
+        width: 208
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b512c6aed9b4b4fb72e30e48a7901d
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_128
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1628
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0809f040a3bc9545be9891ffbbf8740
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_129
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1628
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ea86429074db9488e1005a098568b0
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_130
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 1628
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93020cf0bf5c49d48ba45e9d291cd97d
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_131
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1628
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e48c1b4de5949443a78dfce22471246
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_132
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1633
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d7b1e3ad2b55b948b5520b8a083e953
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_133
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 1633
+        width: 197
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0302f692bdea824e8a2ddb8aa4b1e04
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_134
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 1633
+        width: 197
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0fbfdcdd595b148820469612e1a74d
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_135
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 1633
+        width: 196
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd8c3a511ccee74d8febfa1e564d5ed
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_136
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1311
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18b9e6b44fb98b4e88cad4ed6943c10
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_137
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1311
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26ef1c20fe3db7c45a3fe1ec6880d617
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_138
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1311
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d2aa7f6b472e14898d27cbfbcc7c23
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_139
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1311
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd99dd2541ce2848971c1f59cfe7294
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_140
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1316
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e6c71855026c5544b58604282a87906
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_141
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 1316
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3265e8ccf7b98e04da9cffa5222cfaa9
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_142
+      rect:
+        serializedVersion: 2
+        x: 1793
+        y: 1316
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cf3c6e57b43e94e84aa47e4c6add67
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_143
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1316
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449655fdde79e6a489f775e3bad73a82
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_144
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1333
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f009b0f6aedd4040b6d4ad569edf71b
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_145
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1333
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd37cd8611d2c74da8bdf87093810ae
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_146
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 1333
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7578b34d234afe646a6d1805f4b88af8
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_147
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1333
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42e164f32a9a1446b945ed626c53f8c
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_148
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1338
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed949f4f36601e4c94b02a935ec8d89
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_149
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 1338
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336f6289a633e5c42850fea28072a293
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_150
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 1338
+        width: 197
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13848496588d27f4fbe73d8a235a43c4
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_151
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 1338
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f095cf418a6fb4c939bd7bfc60f3a2
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_152
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1016
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901ed0e83870ff741bea27e4939a4f9d
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_153
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1016
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3169928fadcfff34b829410d7af3cb66
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_154
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1016
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879f0531e2fe33343b6f68646f66a0ed
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_155
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1016
+        width: 207
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceb6bacb7388be948aa6306a4389668f
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_156
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 1016
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f213ca9777081a49ab45aec11ed0677
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_157
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1016
+        width: 208
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630d44bb87233064ca8e48b3422ab186
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_158
+      rect:
+        serializedVersion: 2
+        x: 1795
+        y: 1016
+        width: 209
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38854bdbfc4b2ec4987b639017770e88
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_159
+      rect:
+        serializedVersion: 2
+        x: 2036
+        y: 1016
+        width: 206
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5730661cc7cb03468388ac6d516446e
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_160
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 1038
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5dba896ae4d24cb361706f2e758aa
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_161
+      rect:
+        serializedVersion: 2
+        x: 3038
+        y: 1038
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb65b503d22781148978ce20071750a5
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_162
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 1038
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d458af312e358554386d221893e7786a
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_163
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 1038
+        width: 198
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd681c4b2fd173048ae2b72b2aedf6a4
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_164
+      rect:
+        serializedVersion: 2
+        x: 4053
+        y: 1038
+        width: 196
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f286b91fbdfa0a48b20653eaed3d009
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_165
+      rect:
+        serializedVersion: 2
+        x: 4296
+        y: 1038
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b75f3753fe2fa14b910ca18ba0c7579
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_166
+      rect:
+        serializedVersion: 2
+        x: 4539
+        y: 1038
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ab9d78ae3818840abece9cd6d2fa27
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_167
+      rect:
+        serializedVersion: 2
+        x: 4780
+        y: 1038
+        width: 199
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc9c9d9c9ecfad48a3b162484566b34
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SliderBack
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 596
+        width: 553
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 47, y: 65, z: 63, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff51cc98426fe244ca9bfe22c9bb5c44
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SliderFront
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 596
+        width: 553
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 40, y: 65, z: 54, w: 40}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2e8abdc50f41e4c931b68b48426d5d
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_170
+      rect:
+        serializedVersion: 2
+        x: 1183
+        y: 596
+        width: 555
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2324a96e741176f4c979c7979599c20d
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_171
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 596
+        width: 553
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67df37afe5045140866af1c80ab5dfb
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_172
+      rect:
+        serializedVersion: 2
+        x: 2724
+        y: 613
+        width: 552
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39db5a354df0fbf4896b70c4741bfac9
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_173
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 613
+        width: 553
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a1eafe604c8c244bbc5bd9be45d1f4
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_174
+      rect:
+        serializedVersion: 2
+        x: 3883
+        y: 613
+        width: 556
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84270ecd7a105a14c9fb4976a43fae13
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_175
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 613
+        width: 553
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186f9153e187d14db916f99f97bded9
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_176
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 338
+        width: 261
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501bfc5aaa28b3b47bba0a6c546ef9d6
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_177
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 338
+        width: 263
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad95caf26eee45842b0774009f09db31
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_178
+      rect:
+        serializedVersion: 2
+        x: 1343
+        y: 338
+        width: 260
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 201e89bbec0866247bb929592ae2955c
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SliderButton
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 338
+        width: 263
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 20, y: 26, z: 20, w: 15}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed2f027b1b840641b56803bd3e86f04
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_180
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 345
+        width: 263
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9e922f562cbbd45b25193ab0e1e205
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_181
+      rect:
+        serializedVersion: 2
+        x: 3453
+        y: 345
+        width: 263
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5c5abc6c45c2f49a79dfbd605ac66e
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_182
+      rect:
+        serializedVersion: 2
+        x: 4043
+        y: 345
+        width: 260
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023e8fa2caacb8a4888e556602e9f64a
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_183
+      rect:
+        serializedVersion: 2
+        x: 4625
+        y: 345
+        width: 263
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbfd766b107cc947be3ba44cc855bdc
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_184
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 514
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8d4ff8325a6eb1459e73ef13235bbc6
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_185
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 0
+        width: 541
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd5bebce409e65049bdcb5f04ac70f30
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_186
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 0
+        width: 607
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e07c3b71d827eb419afd8b8e7e599c0
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_187
+      rect:
+        serializedVersion: 2
+        x: 1761
+        y: 0
+        width: 514
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a57b26d4013b6845826235aba91cfcb
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_188
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 0
+        width: 1088
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fcdba1d099cc845953f2132a10ec61
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_189
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 21
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df58dbd92ff42fd4e972de20c6a85a80
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_190
+      rect:
+        serializedVersion: 2
+        x: 3023
+        y: 21
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574295e39a291a646b14ee2053b2e1ff
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_191
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 21
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012007e6f0bd911408ccb038132a8877
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_192
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 0
+        width: 513
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f69a0b3edad3534a8c1767b9bccb0f6
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_193
+      rect:
+        serializedVersion: 2
+        x: 4281
+        y: 21
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86fe1ba165bf1f498fc8d87f8555b3c
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_194
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 0
+        width: 515
+        height: 213
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44bdc53803e3e074c9aa8fc93b7d4ab7
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameGUIZombieButtons_195
+      rect:
+        serializedVersion: 2
+        x: 4768
+        y: 21
+        width: 199
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a3bb38ed828b3409e848f6dbd6dea7
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af3b5a669abd75643b3a749dc26ef0be
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
