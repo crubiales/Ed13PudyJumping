@@ -471,7 +471,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 10
+  m_PixelsPerUnitMultiplier: 3
 --- !u!222 &447472708
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -490,6 +490,7 @@ GameObject:
   m_Component:
   - component: {fileID: 611307680}
   - component: {fileID: 611307681}
+  - component: {fileID: 611307682}
   m_Layer: 5
   m_Name: Slider
   m_TagString: Untagged
@@ -516,8 +517,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -198.9, y: -269.6}
-  m_SizeDelta: {x: 808.9, y: 109.6}
+  m_AnchoredPosition: {x: 158.3, y: -162.2}
+  m_SizeDelta: {x: 1523.3, y: 324.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &611307681
 MonoBehaviour:
@@ -565,12 +566,35 @@ MonoBehaviour:
   m_MinValue: 0
   m_MaxValue: 1
   m_WholeNumbers: 0
-  m_Value: 0.61
+  m_Value: 0.64
   m_OnValueChanged:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 611307682}
+        m_MethodName: CambioValor
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Slider+SliderEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
+--- !u!114 &611307682
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 611307679}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 760c01108384cb849818baadf16fef37, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &932133895
 GameObject:
   m_ObjectHideFlags: 0
@@ -828,7 +852,7 @@ MonoBehaviour:
   m_FillClockwise: 1
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 10
+  m_PixelsPerUnitMultiplier: 3
 --- !u!222 &1634068779
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -1059,7 +1083,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1956937806}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f852da1046fa5d44f9b837a74a95186e, type: 3}
   m_Name: 
