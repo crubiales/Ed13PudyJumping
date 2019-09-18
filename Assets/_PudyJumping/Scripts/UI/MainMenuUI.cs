@@ -7,6 +7,6 @@ public class MainMenuUI : MonoBehaviour
 {
   public void StartNewGame()
   {
-    SceneManager.LoadScene(1);
+   
   }
 }

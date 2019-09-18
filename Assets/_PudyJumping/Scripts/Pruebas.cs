@@ -10,9 +10,6 @@ public class Pruebas : MonoBehaviour
         Debug.Log(A);
     }
 
-    public void OpenBrowser()
-    {
-        Application.OpenURL("http://twitter.com");
-    }
+
 
 }

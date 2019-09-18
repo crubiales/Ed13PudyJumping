@@ -15,4 +15,9 @@ public class SocialMediaUI : MonoBehaviour
     {
         
     }
+
+    public void OpenBrowser()
+    {
+        Application.OpenURL("http://twitter.com");
+    }
 }

@@ -6,13 +6,11 @@ using UnityEngine.Events;
 public class Coin : MonoBehaviour
 {
 
-    private Animator myAnimator;
-    private SpriteRenderer mySpriteRenderer;
+
 
     private void Start()
     {
-        myAnimator = gameObject.GetComponentInChildren<Animator>();
-        mySpriteRenderer = gameObject.GetComponentInChildren<SpriteRenderer>();
+
     }
 
     public void TakeCoin()

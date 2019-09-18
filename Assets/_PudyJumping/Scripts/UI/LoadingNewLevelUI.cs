@@ -10,7 +10,7 @@ public class LoadingNewLevelUI : MonoBehaviour
 
     private void Start()
     {
-        LoadNewLevelAsync();
+
     }
 
 

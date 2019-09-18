@@ -12,7 +12,7 @@ public class PlayerBall : MonoBehaviour
 
     private void Start()
     {
-        animator = this.GetComponent<Animator>();
+
     }
 
 
@@ -22,11 +22,10 @@ public class PlayerBall : MonoBehaviour
 
     public void DamageDone(Damageable damageEnemy)
     {
-        animator.SetTrigger("Hit");
+
     }
 
     public void DestroyBall()
     {
-        Destroy(gameObject);
     }
 }
