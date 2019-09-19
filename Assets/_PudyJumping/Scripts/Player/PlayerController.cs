@@ -9,17 +9,22 @@ using UnityEngine;
 
 public class PlayerController : PhysicObject
 {
+    public float maxSpeed;
+    public float jumpTakeOffSpeed;
+    private Vector3 move;
 
-    
+
+
     private void Awake()
     {
 
     }
 
     #region Movement
-    protected override void ComputeVelocity()
+    protected override void ComputeVelocity() // equivalente a Update
     {
-
+        base.ComputeVelocity();
+        CheckMovement();
     }
 
     void UpdateAnimatorVariables()
@@ -29,6 +34,11 @@ public class PlayerController : PhysicObject
 
     void CheckMovement()
     {
+        move = Vector3.zero; // reinicializamos el vector a (0,0,0)
+        move.x = Input.GetAxis("Horizontal");
+        // moverse en la direccion indicada a la velocidad indicada
+        targetVelocity = move * maxSpeed;
+
 
     }
 
@@ -46,7 +56,7 @@ public class PlayerController : PhysicObject
 
     public void TakeDamage(int damageDone, int Healthleft)
     {
-    }   
+    }
 
     private void CheckShoot()
     {
