@@ -640,17 +640,17 @@ PrefabInstance:
     - target: {fileID: 8455374551911736562, guid: e2eb62a70d750fb498606204bdc62433,
         type: 3}
       propertyPath: m_FlipX
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4065721284135983289, guid: e2eb62a70d750fb498606204bdc62433,
         type: 3}
       propertyPath: maxSpeed
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 4065721284135983289, guid: e2eb62a70d750fb498606204bdc62433,
         type: 3}
       propertyPath: jumpTakeOffSpeed
-      value: 8
+      value: 6
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e2eb62a70d750fb498606204bdc62433, type: 3}
