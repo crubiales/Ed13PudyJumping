@@ -49,6 +49,10 @@ MonoBehaviour:
   minGroundNormalY: 0.65
   gravityModifier: 1
   isJumping: 0
+  maxSpeed: 0
+  jumpTakeOffSpeed: 0
+  lookingRight: 1
+  animator: {fileID: 4225851460185515677}
 --- !u!50 &1746917466
 Rigidbody2D:
   serializedVersion: 4

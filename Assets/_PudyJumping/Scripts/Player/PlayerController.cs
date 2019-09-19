@@ -16,11 +16,14 @@ public class PlayerController : PhysicObject
 
     private SpriteRenderer spriteRenderer;
 
+    public Animator animator;
+
 
 
     private void Awake()
     {
         spriteRenderer = this.GetComponentInChildren<SpriteRenderer>();
+        // el animator lo pasamos arrastrando en unity
     }
 
     #region Movement
@@ -28,6 +31,7 @@ public class PlayerController : PhysicObject
     {
         base.ComputeVelocity();
         CheckMovement();
+        CheckJump();
     }
 
     void UpdateAnimatorVariables()
@@ -40,6 +44,8 @@ public class PlayerController : PhysicObject
         move = Vector3.zero; // reinicializamos el vector a (0,0,0)
         move.x = Input.GetAxis("Horizontal");
         // moverse en la direccion indicada a la velocidad indicada
+
+        animator.SetFloat("Velocity", Mathf.Abs(move.x));
         targetVelocity = move * maxSpeed;
         if (Mathf.Abs(move.x) > 0f)
         {
@@ -51,12 +57,35 @@ public class PlayerController : PhysicObject
 
     void CheckJump()
     {
+        
+        // comprobacion de se ha pulsaod jump y si esta en el suelo
+        if (Input.GetButtonDown("Jump") && grounded)
+        {
+            isJumping = true;
+
+            velocity.y = jumpTakeOffSpeed;
+
+            animator.SetTrigger("StartJump");
+
+        }
+
+        else if (Input.GetButtonUp("Jump"))
+        {
+            if (velocity.y > 0)
+            {
+                velocity.y = velocity.y * 0.5f;
+            }
+        }
 
     }
 
 
     public override void FinishJump()
     {
+        base.FinishJump();
+        animator.SetTrigger("GroundedToIdle");
+
+
     }
     #endregion
 
