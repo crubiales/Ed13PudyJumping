@@ -12,12 +12,15 @@ public class PlayerController : PhysicObject
     public float maxSpeed;
     public float jumpTakeOffSpeed;
     private Vector3 move;
+    public bool lookingRight = true;
+
+    private SpriteRenderer spriteRenderer;
 
 
 
     private void Awake()
     {
-
+        spriteRenderer = this.GetComponentInChildren<SpriteRenderer>();
     }
 
     #region Movement
@@ -38,7 +41,11 @@ public class PlayerController : PhysicObject
         move.x = Input.GetAxis("Horizontal");
         // moverse en la direccion indicada a la velocidad indicada
         targetVelocity = move * maxSpeed;
-
+        if (Mathf.Abs(move.x) > 0f)
+        {
+            lookingRight = move.x > 0f ? true : false;
+            spriteRenderer.flipX = !lookingRight; //lo pongo a true o false dependiendo de donde miro
+        }
 
     }
 
