@@ -10,7 +10,7 @@ public class Enemy : PhysicObject
     // indicador de direccion 
     public bool lookingRight = false;
 
-   
+
     private Vector3 move;
 
     // Sprite Reenderer
@@ -42,16 +42,34 @@ public class Enemy : PhysicObject
 
     private void Move()
     {
+        move = Vector3.zero;
+        // con esto el pj se movera en funcion de donde mire
+        if (lookingRight == false)
+        {
+            move.x = -1;
+        }
+        else
+        {
+            move.x = 1;
+        }
+        //move.x = lookingRight == false ? 1 : -1;
 
-
-
-
-
+        // actualiza para donde esta mirando el enemigo
+        if (Mathf.Abs(move.x) > 0f)
+        {
+            spriteRenderer.flipX = lookingRight;
+        }
+        // le damos movimiento al enemy
+        targetVelocity = move * maxSpeed;
+        animator.SetFloat("Velocity", Mathf.Abs(move.x));
     }
-
+    /// <summary>
+    /// Da la vuelta al Enemy
+    /// </summary>
     public void StartFalling()
     {
-
+        lookingRight = !lookingRight;
+        Debug.Log(this.gameObject.name + "Se da la vuelta");
     }
 
 }
