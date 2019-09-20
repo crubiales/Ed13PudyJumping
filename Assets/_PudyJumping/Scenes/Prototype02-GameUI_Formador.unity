@@ -2338,7 +2338,18 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1175056866}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1890192141}
+        m_MethodName: StartNewGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1175056866
@@ -3249,7 +3260,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -0.10998535}
+  m_AnchoredPosition: {x: 0, y: -0.11010742}
   m_SizeDelta: {x: 0, y: -0.2199707}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1541218079
@@ -3510,7 +3521,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -424, y: -0.10998535}
+  m_AnchoredPosition: {x: -424, y: -0.11010742}
   m_SizeDelta: {x: -1298.9, y: -364.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1639441808
@@ -3842,6 +3853,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1890192140}
+  - component: {fileID: 1890192141}
   - component: {fileID: 1890192139}
   - component: {fileID: 1890192138}
   - component: {fileID: 1890192137}
@@ -3936,6 +3948,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1890192141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1890192136}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 191a055665a7ff241a240acd1446df10, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1939895629
 GameObject:
   m_ObjectHideFlags: 0
@@ -4447,7 +4471,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 398, y: 13.340027}
+  m_AnchoredPosition: {x: 398, y: 13.340088}
   m_SizeDelta: {x: -1250, y: -338}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2106289087

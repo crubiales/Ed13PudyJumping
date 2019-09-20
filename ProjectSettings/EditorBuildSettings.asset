@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/_PudyJumping/Scenes/MainMenu-Formador.unity
-    guid: 1f64e9c6017e0524f9752f3b4ff15274
+    path: Assets/_PudyJumping/Scenes/Prototype02-GameUI_Formador.unity
+    guid: b4c97e2db43b5024cb15f4cfc818df89
   - enabled: 1
-    path: Assets/_PudyJumping/Scenes/LoadingNewLevel.unity
-    guid: 43e6c03a27e320a4988f88327b56fcf6
+    path: Assets/_PudyJumping/Scenes/LoadNewLevel.unity
+    guid: f63e2860f4444344195b4375dc095ae4
   - enabled: 1
-    path: Assets/_PudyJumping/Scenes/Prototype00.unity
-    guid: 3a2e3a195b021b443b7bf2f962e683e0
+    path: Assets/_PudyJumping/Scenes/Prototype04-PlayerController_Formador.unity
+    guid: ce654abf21ab3044cab4ff6bab01a0e1
   m_configObjects: {}
