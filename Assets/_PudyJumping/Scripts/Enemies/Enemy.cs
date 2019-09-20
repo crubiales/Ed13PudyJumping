@@ -26,10 +26,13 @@ public class Enemy : PhysicObject
 
     }
 
-
+    /// <summary>
+    /// Este metodo es el equivalente al update en physics object
+    /// </summary>
     protected override void ComputeVelocity()
     {
         base.ComputeVelocity();
+        Move();// llamada al move en todos los frames
     }
 
     private void UpdateAnimatorVariables()
@@ -39,6 +42,10 @@ public class Enemy : PhysicObject
 
     private void Move()
     {
+
+
+
+
 
     }
 
