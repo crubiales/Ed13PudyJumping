@@ -92,6 +92,11 @@ public class PlayerController : PhysicObject
 
     public void TakeDamage(int damageDone, int Healthleft)
     {
+        Debug.Log($"El Jugador Ha recibido {damageDone} puntos de daño");
+        // llama a la instancia (SINGLETON ) de player UI y actualiza la vida
+        PlayerUI.Instance.UpdateHealth(Healthleft);
+
+
     }
 
     private void CheckShoot()
@@ -100,6 +105,7 @@ public class PlayerController : PhysicObject
 
     public void SetHealth(int startingHealth)
     {
+        PlayerUI.Instance.UpdateHealth(startingHealth);
     }
 
     private void LateUpdate()

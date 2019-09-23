@@ -5,6 +5,18 @@ using UnityEngine.UI;
 
 public class PlayerUI : Singleton<PlayerUI>
 {
+    public static PlayerUI Instance
+    {
+        get
+        {
+            return ((PlayerUI)mInstance);
+        }
+        set
+        {
+            mInstance = value;
+        }
+    }
+
     //referencias a los corazones de la interfaz
     public GameObject heart1, heart2, heart3, heart4, heart5;
 
@@ -15,6 +27,7 @@ public class PlayerUI : Singleton<PlayerUI>
     /// <param name="health"></param>
     public void UpdateHealth(int health)
     {
+        
         health = Mathf.Clamp(health, 0, 5);
         heart1.SetActive(health >= 1);
         heart2.SetActive(health >= 2);
