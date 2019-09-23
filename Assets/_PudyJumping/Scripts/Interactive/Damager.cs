@@ -15,6 +15,8 @@ public class Damager : MonoBehaviour
     //referencia al trigger de colision de daño
     // se usa para saber con que trigger he chocado
     public Collider2D damageTrigger;
+    // entidad a la que va dirigida el daño
+    public string damageTag;
 
     /// <summary>
     /// Sirve para hacer daño al damageable
@@ -31,15 +33,21 @@ public class Damager : MonoBehaviour
         // si el otro objeto esta tocando mi trigger sigo
         if (damageTrigger.IsTouching(collision))
         {
-            Damageable collisionDamageable;
-            collisionDamageable = collision.gameObject.GetComponent<Damageable>();
-            if(collisionDamageable != null)
+            //si el objeto con el que choco tiene el tag que busco 
+            if (collision.gameObject.CompareTag(damageTag) == true)
             {
-                Debug.Log($"La entidad {gameObject.name} ha realizado daño a {collision.gameObject.name}");
+                Damageable collisionDamageable;
+                collisionDamageable = collision.gameObject.GetComponent<Damageable>();
+                // si contiene la variable de Damageable entonces le hago daño
+                if (collisionDamageable != null)
+                {
+                    Debug.Log($"La entidad {gameObject.name} ha realizado daño a {collision.gameObject.name}");
 
-                //llamada al metodo que hace daño a damageable
-                PerformDamage(collisionDamageable);
+                    //llamada al metodo que hace daño a damageable
+                    PerformDamage(collisionDamageable);
+                }
             }
+
 
         }
 

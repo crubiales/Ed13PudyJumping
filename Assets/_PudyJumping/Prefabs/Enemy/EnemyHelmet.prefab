@@ -53,6 +53,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   damageDone: 1
   damageTrigger: {fileID: 7941732335624989507}
+  damageTag: Player
 --- !u!114 &2040022463128924767
 MonoBehaviour:
   m_ObjectHideFlags: 0
