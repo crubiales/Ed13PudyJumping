@@ -16,9 +16,14 @@ public class Damager : MonoBehaviour
     // se usa para saber con que trigger he chocado
     public Collider2D damageTrigger;
 
-
+    /// <summary>
+    /// Sirve para hacer daño al damageable
+    /// </summary>
+    /// <param name="damageable"></param>
     public void PerformDamage(Damageable damageable)
     {
+        damageable.TakeDamage(this);
+
     }
 
     private void OnTriggerEnter2D(Collider2D collision)
@@ -31,6 +36,9 @@ public class Damager : MonoBehaviour
             if(collisionDamageable != null)
             {
                 Debug.Log($"La entidad {gameObject.name} ha realizado daño a {collision.gameObject.name}");
+
+                //llamada al metodo que hace daño a damageable
+                PerformDamage(collisionDamageable);
             }
 
         }

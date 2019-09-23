@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4516874612851132}
   - component: {fileID: 5390901807727585286}
+  - component: {fileID: 2040022463128924767}
   - component: {fileID: 1374036991217858348}
   - component: {fileID: 696881014095080252}
   - component: {fileID: 4730970591104561092}
@@ -50,8 +51,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 328d7fcfb8bfd4749bbbfe0916f151d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  damageDone: 0
+  damageDone: 1
   damageTrigger: {fileID: 7941732335624989507}
+--- !u!114 &2040022463128924767
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1005111320355666}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4817f7923bee8014d88599a053e9e69e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  curHealth: 0
+  maxHealth: 1
+  isDead: 0
 --- !u!114 &1374036991217858348
 MonoBehaviour:
   m_ObjectHideFlags: 0
