@@ -94,12 +94,21 @@ public class PlayerController : PhysicObject
     }
     #endregion
 
-
+    /// <summary>
+    /// funcion que se encarga de recibir daño 
+    /// </summary>
+    /// <param name="damageDone"></param>
+    /// <param name="Healthleft"></param>
     public void TakeDamage(int damageDone, int Healthleft)
     {
         Debug.Log($"El Jugador Ha recibido {damageDone} puntos de daño");
         // llama a la instancia (SINGLETON ) de player UI y actualiza la vida
         PlayerUI.Instance.UpdateHealth(Healthleft);
+
+        if(Healthleft <= 0)
+        {
+            GameManager.Instance.PlayerDie();
+        }
 
 
     }
