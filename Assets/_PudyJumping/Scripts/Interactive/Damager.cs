@@ -4,12 +4,16 @@ using UnityEngine;
 using UnityEngine.Events;
 
 
-
+[System.Serializable]
+// clase personalizada para crear el unity event de daño realizado
+public class DamageDone : UnityEvent<Damageable> { } 
 /// <summary>
-///Stcirpt que se encarga de hacer daño a otra entidad que tenga Damageable
+///Script que se encarga de hacer daño a otra entidad que tenga Damageable
 /// </summary>
 public class Damager : MonoBehaviour
 {
+    //instanciacion de el unity event
+    public DamageDone damageDoneEvent;
     //Cantidad de daño que va ha hacer a al damageable
     public int damageDone;
     //referencia al trigger de colision de daño
@@ -24,6 +28,8 @@ public class Damager : MonoBehaviour
     /// <param name="damageable"></param>
     public void PerformDamage(Damageable damageable)
     {
+        //Call of Duty del evento de daño
+        damageDoneEvent.Invoke(damageable);
         damageable.TakeDamage(this);
 
     }

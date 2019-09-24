@@ -17,7 +17,7 @@ GameObject:
   - component: {fileID: 7941732335624989507}
   m_Layer: 0
   m_Name: EnemyHelmet
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -66,6 +66,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4817f7923bee8014d88599a053e9e69e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  healthSet:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: HealthSet, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+  damageReceived:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: DamageReceived, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
   curHealth: 0
   maxHealth: 1
   isDead: 0
@@ -85,7 +94,7 @@ MonoBehaviour:
   gravityModifier: 1
   isJumping: 0
   maxSpeed: 1
-  lookingRight: 0
+  lookingRight: 1
   spriteRenderer: {fileID: 8058807277477004950}
   animator: {fileID: 4889850571481132349}
 --- !u!50 &696881014095080252
