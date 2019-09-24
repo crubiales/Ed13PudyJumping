@@ -18,6 +18,11 @@ public class PlayerController : PhysicObject
 
     public Animator animator;
 
+    //Refrencias de sitio para disparar
+    public Transform shootPointLeft, shootPointRight;
+    // referencia del gameobject "Bala"
+    public GameObject prefabBall;
+
 
 
     private void Awake()
@@ -98,9 +103,37 @@ public class PlayerController : PhysicObject
 
 
     }
+    private void LateUpdate()
+    {
+        CheckShoot();
+    }
 
     private void CheckShoot()
     {
+        //checkeo la pulsacion
+        if (Input.GetButtonDown("Shoot"))
+        {
+            // cojo la referencia de la instancia que he creado 
+            GameObject ball = Instantiate(prefabBall);
+
+            // de la instanci a saco la referencia del script "PLAYERBALL"
+            PlayerBall scriptPlayerball = ball.GetComponent<PlayerBall>();
+            // si estoy mirando hacia la dereche lo pongo en la derecha  si no en la izquierda
+            if (lookingRight)
+            {
+                //MUEVO LA PELOTA A LA PARTE DERECHA
+                ball.transform.position = shootPointRight.position;
+                // LE DIGO AL SCRIPT DE LA PELO QUE SE MUEVA A LA DERECHA
+                scriptPlayerball.flyingRight = true;
+                
+            }
+            else
+            {
+                ball.transform.position = shootPointLeft.position;
+                scriptPlayerball.flyingRight = false;
+            }
+
+        }
     }
 
     public void SetHealth(int startingHealth)
@@ -108,7 +141,5 @@ public class PlayerController : PhysicObject
         PlayerUI.Instance.UpdateHealth(startingHealth);
     }
 
-    private void LateUpdate()
-    {
-    }
+
 }
