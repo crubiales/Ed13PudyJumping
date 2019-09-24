@@ -19,7 +19,10 @@ public class PlayerUI : Singleton<PlayerUI>
 
     //referencias a los corazones de la interfaz
     public GameObject heart1, heart2, heart3, heart4, heart5;
+    // referencia al texto de la interfaz de vidas
+    public Text curLifes;
 
+    public Text curTime;
 
     /// <summary>
     /// Sirve para activar o desactivar los corazones en funcion del parametro
@@ -41,10 +44,12 @@ public class PlayerUI : Singleton<PlayerUI>
     public void UpdateLifes(int curLifes)
     {
 
+        this.curLifes.text = $"X {curLifes}";
+
     }
 
     public void UpdateTime(float curTime)
     {
-
+        this.curTime.text = $"{curTime} S";
     }
 }

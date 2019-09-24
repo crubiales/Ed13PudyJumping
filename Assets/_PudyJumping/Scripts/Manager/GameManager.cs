@@ -22,12 +22,19 @@ public class GameManager : Singleton<GameManager>
     public int curLifes;
     public int maxLifes;
 
+    // tiempo actual
+
+    public float curTime;
+    public float maxTime;
+
 
 
     private void Start()
     {
         curLifes = maxLifes;
-
+        curTime = maxTime;
+        PlayerUI.Instance.UpdateLifes(curLifes);
+        PlayerUI.Instance.UpdateTime(curTime);
     }
 
 
@@ -36,7 +43,8 @@ public class GameManager : Singleton<GameManager>
     public void PlayerDie()
     {
         curLifes--;// resta una vida
-
+        // Actualizo la intefaz
+        PlayerUI.Instance.UpdateLifes(curLifes);
         //si las vidas actuales son suficientes
         if(curLifes >= 0)
         {
@@ -73,6 +81,14 @@ public class GameManager : Singleton<GameManager>
 
     private void Update()
     {
+        curTime -= Time.deltaTime;
+
+        if(curTime <= 0) {
+            PlayerDie();
+        }
+
+        PlayerUI.Instance.UpdateTime(curTime);
+
     }
 
     public void AddCoins(int value)
