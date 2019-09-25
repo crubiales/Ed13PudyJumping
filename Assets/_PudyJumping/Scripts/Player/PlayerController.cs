@@ -54,12 +54,13 @@ public class PlayerController : PhysicObject
         targetVelocity = move * maxSpeed;
         if (Mathf.Abs(move.x) > 0f)
         {
+            GameManager.Instance.changeCameraDirection((move.x > 0f ? true : false));
             lookingRight = move.x > 0f ? true : false;
             spriteRenderer.flipX = !lookingRight; //lo pongo a true o false dependiendo de donde miro
         }
 
     }
-
+    
     void CheckJump()
     {
         

@@ -12,9 +12,6 @@ EditorBuildSettings:
     path: Assets/_PudyJumping/Scenes/LoadNewLevel.unity
     guid: f63e2860f4444344195b4375dc095ae4
   - enabled: 1
-    path: Assets/_PudyJumping/Scenes/Prototype04-PlayerController_Formador.unity
-    guid: ce654abf21ab3044cab4ff6bab01a0e1
-  - enabled: 1
-    path: Assets/_PudyJumping/Scenes/Niveles/Nivel 1.unity
-    guid: 714bb0459fdfa2949b7af00cba949cac
+    path: Assets/_PudyJumping/Scenes/Niveles/Leve1_Formador.unity
+    guid: c91b9251cb43418459f9c51629959826
   m_configObjects: {}

@@ -24,6 +24,7 @@ public class PlayerUI : Singleton<PlayerUI>
 
     public Text curTime;
 
+    public Text curCoins;
     /// <summary>
     /// Sirve para activar o desactivar los corazones en funcion del parametro
     /// </summary>
@@ -51,5 +52,10 @@ public class PlayerUI : Singleton<PlayerUI>
     public void UpdateTime(float curTime)
     {
         this.curTime.text = $"{curTime} S";
+    }
+
+    public void UpdateCoins(int _curCoins)
+    {
+        this.curCoins.text = $"X {_curCoins}";
     }
 }

@@ -27,6 +27,9 @@ public class GameManager : Singleton<GameManager>
     public float curTime;
     public float maxTime;
 
+    public int coins;
+
+    public CameraFollowSmooth _CameraFollowSmooth;
 
 
     private void Start()
@@ -46,7 +49,7 @@ public class GameManager : Singleton<GameManager>
         // Actualizo la intefaz
         PlayerUI.Instance.UpdateLifes(curLifes);
         //si las vidas actuales son suficientes
-        if(curLifes >= 0)
+        if (curLifes >= 0)
         {
             //se reinicia el nivel
             RestartLevel();
@@ -63,7 +66,7 @@ public class GameManager : Singleton<GameManager>
     /// </summary>
     private void RestartLevel()
     {
-        
+
         Debug.Log("el player ha muerto y se reinicia el nivel");
         //recargar la Scene Activa
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
@@ -81,20 +84,49 @@ public class GameManager : Singleton<GameManager>
 
     private void Update()
     {
+        //resta a current time el tiempo que ha pasado desde el ultimo frame 
         curTime -= Time.deltaTime;
 
-        if(curTime <= 0) {
+        //despues de la resta compruebo el tiempo que me queda
+        // si es menor o igual que 0 , me he quedado sin tiempo y muero
+        if (curTime <= 0)
+        {
             PlayerDie();
         }
 
+        // despues actualizo el tiempo en la interfaz para que el jugador vea 
+        // cuanto tiempo le queda para pasarse el nivel.
         PlayerUI.Instance.UpdateTime(curTime);
 
     }
 
     public void AddCoins(int value)
     {
+        coins += value;
+        if(coins >= 100)
+        {
+            curLifes++;
+            PlayerUI.Instance.UpdateLifes(curLifes);
+           coins -= 100;
+        }
+
+        PlayerUI.Instance.UpdateCoins(coins);
+
+
+
     }
 
+    public void changeCameraDirection(bool lookingRight)
+    {
+        if (lookingRight == false)
+        {
+            _CameraFollowSmooth.offset = new Vector3(-5, 1.5f, -10);
+        }
+        else
+        {
+            _CameraFollowSmooth.offset = new Vector3(5, 1.5f, -10);
+        }
 
+    }
 }
 

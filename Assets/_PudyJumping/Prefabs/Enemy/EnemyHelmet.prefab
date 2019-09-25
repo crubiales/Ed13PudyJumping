@@ -51,6 +51,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 328d7fcfb8bfd4749bbbfe0916f151d7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  damageDoneEvent:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: DamageDone, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
   damageDone: 1
   damageTrigger: {fileID: 7941732335624989507}
   damageTag: Player
@@ -76,7 +80,7 @@ MonoBehaviour:
     m_TypeName: DamageReceived, Assembly-CSharp, Version=0.0.0.0, Culture=neutral,
       PublicKeyToken=null
   curHealth: 0
-  maxHealth: 1
+  maxHealth: 3
   isDead: 0
 --- !u!114 &1374036991217858348
 MonoBehaviour:
@@ -196,7 +200,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 492894637901239753}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.9, y: -1.41, z: -0.50382006}
+  m_LocalPosition: {x: 0.59, y: -1.41, z: -0.50382006}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 4516874612851132}
@@ -268,7 +272,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1734225436431922902}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -1.11, y: -1.37, z: -0.50382006}
+  m_LocalPosition: {x: -0.68, y: -1.37, z: -0.50382006}
   m_LocalScale: {x: 2, y: 2, z: 2}
   m_Children: []
   m_Father: {fileID: 4516874612851132}
